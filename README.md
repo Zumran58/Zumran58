@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 Hi, I'm Zumran Nain.
+👀 I’m interested in Backend/Full-Stack Web/Software Development, and AI/ML Development
+💞️ I’m looking to collaborate on virtually anything related to Software Development!
+📫 How to reach me: nainzumran@yahoo.com
+
 <!--
 **Zumran58/Zumran58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
