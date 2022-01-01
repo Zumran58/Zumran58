@@ -1,4 +1,9 @@
- Hi there 👋
+Hi there 👋 I'm Zumran, a Third Year Statistics student at University of Toronto, specializing in Machine Learning 🧠!
+
+I am happy to connect on Github and on Linkedln: https://www.linkedin.com/in/zumrannain/. 
+
+I can be reached at nainzumran@yahoo.com
+
 
 
 <!--
