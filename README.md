@@ -2,7 +2,7 @@ Hi there 👋 I'm Zumran, a Third Year Statistics student at University of Toron
 
 I am happy to connect on Github and on Linkedln: https://www.linkedin.com/in/zumrannain/. 
 
-📫 How to reach me: nainzumran@yahoo.com
+📫 How to reach me: zumran.nain@gmail.com
 
 
 
